@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1702791909314,
+      "tag": "0000_wealthy_scorpion",
+      "breakpoints": true
+    }
+  ]
+}
